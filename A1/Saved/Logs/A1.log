@@ -202,3 +202,9 @@ LogInit: Object subsystem initialized
 [2017.07.04-20.06.00:445][  1]LogAssetRegistry: Asset discovery search completed in 17.7056 seconds
 [2017.07.04-20.06.00:448][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
 [2017.07.04-20.06.00:448][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2017.07.04-20.09.41:773][121]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.07.04-20.09.43:386][121]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.07.04-20.10.01:768][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/baseActor" FILE="../../../../../../Users/Eng-John/Documents/GitHub/proTest/A1/Content/baseActor.uasset" SILENT=true
+[2017.07.04-20.10.01:785][736]LogSavePackage: Save=15.86ms
+[2017.07.04-20.10.01:785][736]LogSavePackage: Moving '../../../../../../Users/Eng-John/Documents/GitHub/proTest/A1/Saved/baseActor3D422B1D4E6C642115FDF4A89C0F0D04.tmp' to '../../../../../../Users/Eng-John/Documents/GitHub/proTest/A1/Content/baseActor.uasset'
+[2017.07.04-20.10.01:788][736]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Eng-John/Documents/GitHub/proTest/A1/Content/baseActor.uasset
