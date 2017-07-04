@@ -208,3 +208,5 @@ LogInit: Object subsystem initialized
 [2017.07.04-20.10.01:785][736]LogSavePackage: Save=15.86ms
 [2017.07.04-20.10.01:785][736]LogSavePackage: Moving '../../../../../../Users/Eng-John/Documents/GitHub/proTest/A1/Saved/baseActor3D422B1D4E6C642115FDF4A89C0F0D04.tmp' to '../../../../../../Users/Eng-John/Documents/GitHub/proTest/A1/Content/baseActor.uasset'
 [2017.07.04-20.10.01:788][736]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Eng-John/Documents/GitHub/proTest/A1/Content/baseActor.uasset
+[2017.07.04-20.15.20:285][754]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.07.04-20.15.20:286][754]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
